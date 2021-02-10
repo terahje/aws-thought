@@ -5,7 +5,7 @@
 ## Description
 This full-stack application utilizes a Node.js back-end and React front-end to allow a user to share thoughts and upload images to better bring their ideas to life. Users can create new “thoughts” or interact with other users’ thoughts. Deployed using AWS, this application takes advantage of the numerous services offered such as the AWS S3 Bucket to save images and AWS DynamoDB to store the data from each thought. It is deployed to an Amazon EC2 instance (Ubuntu/NGINX) for its ability to increase or decrease according to the demand on the site.
 
-[Link to deployed Portfolio](http://54.210.39.149)
+[Link to deployed Application](http://54.210.39.149)
 
 
 ## Table of Contents
