@@ -27,7 +27,7 @@ This full-stack application utilizes a Node.js back-end and React front-end to a
 User's can create thought along with post an image, and can see previous thoughts.
 ![](/assets/images/screenshot1.jpg)
 User can also see previous thoughts they have made.
-![](/assets/images/screenshot1.jpg)
+![](/assets/images/screenshot2.jpg)
 
 ## License
 ### This license is covered under the following license(s):
